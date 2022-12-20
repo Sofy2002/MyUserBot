@@ -12,9 +12,9 @@ from help import *
 from config import *
 from threading import Thread
 
-a = 'qwertyuiopassdfghjklzxcvbnm'
-b = '1234567890'
-e = 'qwertyuiopassdfghjklzxcvbnm1234567890'
+a = '8771a39b5442e663c50570e6eca6cb6c'
+b = '27979425'
+e = '1ApWapzMBu5GOtfOmcJdenNuAxlFnxptUApITLOVRUj2MQvTXRFVxpDe4AiF0XONSjsyvsqt9ofG-iUS1yt0PNxngQ6lhtADR9Xh-8SK8Wssmd3WN88DLZhknckmfS63l_VhbOBVGu2ZaZC4259RrMM2Rp3lTpT7SRMr74YHnkxMpqChD7DBtKMAPYiqp087Nt2Sa2HeNwTu4alNB2nEkkpirmYgCQzQ7rvHLzIlM-NG9zvBL73Jysn5vMwBA0qICY7QcCdPxCKWvMaAnlYCwF9khzXpCo6zDqsgFZp5i2JCl6MK10Im-_aXV3ov3tzhZEbVSYcpxF-7_z9qzfYlhIKq0vdoBMw0='
 
 banned = []
 isclaim = ["off"]
